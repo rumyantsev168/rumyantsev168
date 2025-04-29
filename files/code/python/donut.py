@@ -1,3 +1,5 @@
+# THIS CODE IS NOT MINE. JUST SAVING IT FOR MYSELF
+
 import pygame
 import math
 import colorsys

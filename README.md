@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Learning-Python-FFF?logo=python&warning&color=1f7a0c" alt="python">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+  <img src="https://img.shields.io/badge/Editor-PyCharm-green/?logo=pycharm&logoColor=green&color=green" alt="editor">
 </p>
 
 |[:shipit:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|

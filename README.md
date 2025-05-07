@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me
+
+<p>
+  <img src="https://img.shields.io/badge/Learning-Python-FFF?logo=python&warning&color=1f7a0c" alt="python">
+</p>
+
+
 |[:shipit:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
 |:-:|

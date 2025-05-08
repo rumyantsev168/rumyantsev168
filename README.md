@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 ![Uses: Discord](https://img.shields.io/badge/Uses-Discord-FFF?logo=discord&warning&color=7289da&logoColor=7289da&labelColor=white)
 ![Uses: Discord](https://img.shields.io/badge/Uses-Telegram-FFF?logo=telegram&warning&color=27a7e7&logoColor=27a7e7&labelColor=white)
 
-
-
 ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=rumyantsev168&theme=darkhub)

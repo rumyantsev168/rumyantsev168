@@ -1,5 +1,3 @@
-<h1 align="center">Hello there!</h1>
-
 <h2 align="center">About Me</h2>
 <p align="center">
   I am a school student. Currently learning Python and HTML.

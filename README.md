@@ -1,12 +1,27 @@
-![Welcome Message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=DADADA&repeat=false&width=900&height=25&vCenter=true&lines=Hello+there!+I+am+rumyantsev168,+and+this+is+my+GitHub+profile!)
+<h1 align="center">Hello there!</h1>
 
-![Learning: Python](https://img.shields.io/badge/Learning-Python-FFF?logo=python&warning&color=1f7a0c&labelColor=white)
-![Learning: HTML](https://img.shields.io/badge/Learning-HTML-FFF?logo=html5&warning&color=orange&labelColor=white)
-![Knows: Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?color=lightgray&logo=markdown&logoColor=gray&labelColor=white)
-![Editor: PyCharm](https://img.shields.io/badge/Editor-PyCharm-FFF?logo=pycharm&warning&color=21d789&logoColor=black&labelColor=white) \
-![Uses: Reddit](https://img.shields.io/badge/Uses-Reddit-FFF?logo=reddit&warning&color=d93900&logoColor=d93900&labelColor=white)
-![Uses: Discord](https://img.shields.io/badge/Uses-Discord-FFF?logo=discord&warning&color=7289da&logoColor=7289da&labelColor=white)
-![Uses: Telegram](https://img.shields.io/badge/Uses-Telegram-FFF?logo=telegram&warning&color=27a7e7&logoColor=27a7e7&labelColor=white)
+<h2 align="center">About Me</h2>
+<p align="center">
+  I am a school student. Currently learning Python and HTML.
+</p>
 
-### My Trophies
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=rumyantsev168&theme=darkhub&title=Commits,Stars,Repositories)
+<h2 align="center">My Skills</h2>
+
+<h4 align="center">Programming and Markup Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoSize=auto" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoSize=auto" alt="HTML5" />
+  <img src="https://img.shields.io/badge/MarkDown-FFFFFF?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=gray" alt="MarkDown" />
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoSize=auto&logoColor=black" alt="PyCharm" />
+</p>
+
+<h2 align="center">My Contributions</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rumyantsev168&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contributions" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumyantsev168&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>

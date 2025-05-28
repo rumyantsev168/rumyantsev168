@@ -15,6 +15,7 @@
 <h4 align="center">Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoSize=auto&logoColor=black" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Notepad++-FFFFFF?style=for-the-badge&logo=notepadplusplus&logoSize=auto&logoColor=black" alt="Notepad++" />
 </p>
 
 <h2 align="center">My Contributions</h2>
@@ -22,5 +23,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rumyantsev168&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=DADADA&sideLabels=DADADA&dates=B4B4B4" alt="Contributions" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumyantsev168&layout=compact&theme=transparent&hide_border=true&text_color=DADADA" alt="Top languages" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumyantsev168&bg_color=00000000&color=DADADA&line=006AFF&point=00000000&hide_border=true&hide_title=true&theme=high-contrast&height=300&from=2025-04-14&to=2025-05-27" alt="Contribution chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumyantsev168&bg_color=00000000&color=DADADA&line=006AFF&point=00000000&hide_border=true&hide_title=true&theme=high-contrast&height=300&days=50" alt="Contribution chart" />
 </p>

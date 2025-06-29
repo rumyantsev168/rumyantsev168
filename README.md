@@ -1,32 +1,38 @@
 <h2 align="center">About Me</h2>
 <p align="center">
-  I am a school student. Currently learning Python and HTML.
+    I am a school student. Currently learning Python and HTML.
 </p>
 
 <h2 align="center">My Skills</h2>
 
 <h4 align="center">Programming and Markup Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoSize=auto" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoSize=auto" alt="HTML5" />
-  <img src="https://img.shields.io/badge/MarkDown-FFFFFF?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=gray" alt="MarkDown" />
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoSize=auto&logoColor=black" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoSize=auto&logoColor=black" alt="HTML5" />
+    <img src="https://img.shields.io/badge/MarkDown-FFFFFF?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=black" alt="MarkDown" />
+</p>
+
+<h4 align="center">Learning</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoSize=auto&logoColor=black" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoSize=auto&logoColor=black" alt="JavaScript" />
 </p>
 
 <h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoSize=auto&logoColor=black" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Notepad++-FFFFFF?style=for-the-badge&logo=notepadplusplus&logoSize=auto&logoColor=black" alt="Notepad++" />
+    <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoSize=auto&logoColor=black" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/Notepad++-FFFFFF?style=for-the-badge&logo=notepadplusplus&logoSize=auto&logoColor=black" alt="Notepad++" />
 </p>
 
 <h2 align="center">My Contributions</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rumyantsev168&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=DADADA&sideLabels=DADADA&dates=B4B4B4" alt="Contributions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumyantsev168&layout=compact&theme=transparent&hide_border=true&text_color=DADADA" alt="Top languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumyantsev168&bg_color=00000000&color=DADADA&line=006AFF&point=00000000&hide_border=true&hide_title=true&theme=high-contrast&height=600&days=50" alt="Contribution chart" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rumyantsev168&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=DADADA&sideLabels=DADADA&dates=B4B4B4" alt="Contributions" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumyantsev168&layout=compact&theme=transparent&hide_border=true&text_color=DADADA" alt="Top languages" />
+    <br />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumyantsev168&bg_color=00000000&color=DADADA&line=006AFF&point=00000000&hide_border=true&hide_title=true&theme=high-contrast&height=600&days=50" alt="Contribution chart" />
 </p>
 
 <h2 align="center">Socials</h2>
 <p align="center">
-  <a href="https://www.reddit.com/u/rumyantsev"><img src="https://img.shields.io/badge/Reddit-FFFFFF?style=for-the-badge&logo=reddit&logoSize=auto" alt="Reddit" /></a>
+    <a href="https://www.reddit.com/u/rumyantsev"><img src="https://img.shields.io/badge/Reddit-FFFFFF?style=for-the-badge&logo=reddit&logoSize=auto" alt="Reddit" /></a>
 </p>

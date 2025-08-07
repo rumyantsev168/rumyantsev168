@@ -7,9 +7,12 @@
 
 <h4 align="center">Programming and Markup Languages</h4>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoSize=auto&logoColor=black" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoSize=auto&logoColor=black" alt="HTML5" />
-    <img src="https://img.shields.io/badge/MarkDown-FFFFFF?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=black" alt="MarkDown" />
+    <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoSize=auto&logoColor=black" alt="Python" />
+    <img src="https://img.shields.io/badge/6%2F10-FFFF7F?style=for-the-badge" alt="Python Score" /><br />
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoSize=auto&logoColor=black" alt="HTML5" />
+    <img src="https://img.shields.io/badge/3%2F10-FFDF80?style=for-the-badge" alt="HTML5 Score" /><br />
+    <img src="https://img.shields.io/badge/MarkDown-white?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=black" alt="MarkDown" />
+    <img src="https://img.shields.io/badge/9%2F10-BFFF7F?style=for-the-badge" alt="MarkDown Score" /><br />
 </p>
 
 <h4 align="center">Learning</h4>

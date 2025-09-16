@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoSize=auto&logoColor=black" alt="Python" />
     <img src="https://img.shields.io/badge/6%2F10-FFFF7F?style=for-the-badge" alt="Python Score" /><br />
     <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoSize=auto&logoColor=black" alt="HTML5" />
-    <img src="https://img.shields.io/badge/3%2F10-FFDF80?style=for-the-badge" alt="HTML5 Score" /><br />
+    <img src="https://img.shields.io/badge/4%2F10-FFDF80?style=for-the-badge" alt="HTML5 Score" /><br />
     <img src="https://img.shields.io/badge/MarkDown-white?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=black" alt="MarkDown" />
     <img src="https://img.shields.io/badge/9%2F10-BFFF7F?style=for-the-badge" alt="MarkDown Score" /><br />
 </p>
@@ -24,6 +24,7 @@
 <h4 align="center">Tools</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoSize=auto&logoColor=black" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/IntelliJ%20Idea-FFFFFF?style=for-the-badge&logo=intellijidea&logoSize=auto&logoColor=black" alt="IntelliJ Idea" />
     <img src="https://img.shields.io/badge/Notepad++-FFFFFF?style=for-the-badge&logo=notepadplusplus&logoSize=auto&logoColor=black" alt="Notepad++" />
 </p>
 

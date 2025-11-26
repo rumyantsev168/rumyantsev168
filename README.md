@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 <p align="center">
-    I am a school student. Currently learning Python and HTML.
+    I am a school student. Currently learning Python, Html and JavaScript.
 </p>
 
 <h2 align="center">My Skills</h2>
@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/4%2F10-FFDF80?style=for-the-badge" alt="HTML5 Score" /><br />
     <img src="https://img.shields.io/badge/MarkDown-white?style=for-the-badge&logo=markdown&logoSize=auto&logoColor=black" alt="MarkDown" />
     <img src="https://img.shields.io/badge/9%2F10-BFFF7F?style=for-the-badge" alt="MarkDown Score" /><br />
+    <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/4%2F10-FFDF80?style=for-the-badge" alt="JavaScript Score" /><br />
 </p>
 
 <h4 align="center">Learning</h4>
@@ -24,7 +26,6 @@
 <h4 align="center">Tools</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoSize=auto&logoColor=black" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/IntelliJ%20Idea-FFFFFF?style=for-the-badge&logo=intellijidea&logoSize=auto&logoColor=black" alt="IntelliJ Idea" />
     <img src="https://img.shields.io/badge/Notepad++-FFFFFF?style=for-the-badge&logo=notepadplusplus&logoSize=auto&logoColor=black" alt="Notepad++" />
 </p>
 
@@ -36,7 +37,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumyantsev168&bg_color=00000000&color=DADADA&line=006AFF&point=00000000&hide_border=true&hide_title=true&theme=high-contrast&height=600&days=50" alt="Contribution chart" />
 </p>
 
+<!--
 <h2 align="center">Socials</h2>
 <p align="center">
     <a href="https://www.reddit.com/u/rumyantsev"><img src="https://img.shields.io/badge/Reddit-FFFFFF?style=for-the-badge&logo=reddit&logoSize=auto" alt="Reddit" /></a>
 </p>
+-->
